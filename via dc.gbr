@@ -1,0 +1,18 @@
+G04 =======================================* 
+G04 File Format: RS-274X * 
+G04 Date:        April 20 2025 * 
+G04 Time:        17:09:33 * 
+G04 =======================================* 
+G04 Format description *** 
+G04 Code:          ASCII * 
+G04 Unit:          Millimeter * 
+G04 Coordinates:   Absolut * 
+G04 Digits:        3.3-format * 
+G04 Zeros skipped: Leading zeros omitted * 
+G04 =======================================* 
+%FSLAX33Y33*%
+%MOMM*%
+G90*
+G71*
+M02* 
+G04 End Of Gerber File* 
